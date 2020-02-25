@@ -1,0 +1,14 @@
+openapi: 3.0.0
+info:
+  title: APISprint
+  version: '1.0'
+servers:
+  - url: 'http://172.18.136.80:6958'
+    description: URLDEV
+paths: {}
+components:
+  schemas: {}
+  securitySchemes:
+    NTIxMjU6MGQwYzNkNTVjYjg2OWNmMWJiN2ExZmNhNWE5Njk2ZTkxZmJmZDE3Ng==:
+      type: http
+      scheme: basic
